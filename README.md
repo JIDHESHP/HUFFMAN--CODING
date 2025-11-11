@@ -28,7 +28,7 @@ print the characters and its huffmancode
 # Name : JIDHESH P
 # Reg.No: 212223040078
 # Step 1: Get the input string
-input_string = "MOONESH P"  # Example input string
+input_string = "JIDHESH P"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
