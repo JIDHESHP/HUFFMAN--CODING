@@ -1,4 +1,3 @@
-<img width="292" height="360" alt="Screenshot 2025-11-11 at 7 09 28 PM" src="https://github.com/user-attachments/assets/ae70cbcf-9c08-4a2c-bde0-90581b2f7a53" /># Huffman-Coding
 # NAME: JIDHESH P
 # REG NO : 212223040078
 ## Aim
